@@ -1,0 +1,21 @@
+body {
+    background:beige;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h1{
+    color:slateblue;
+    text-align:justify;
+}
+.assignment{
+    display:flex;
+    padding: 10px;
+    margin:10px;
+    background:lightcyan;
+}
+
+.assignment img {
+    width:200px;
+    padding:10px;
+}
